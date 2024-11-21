@@ -49,7 +49,7 @@ To use this Solana Bot Package, you will need to have a basic understanding of S
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/tradenly
+   git clone https://github.com/tradenly/solbot
    ```
 2. **Install Dependencies**:
    ```bash
